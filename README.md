@@ -1,12 +1,14 @@
-# 俺のゼニはどこ行った for 茅ヶ崎
+# 俺のゼニはどこ行った for 藤沢
 
-wheredoesmymoney.orgの茅ヶ崎バージョンです．
+wheredoesmymoney.orgの藤沢バージョンです．
 横浜バージョンに啓発されて作成しました。
-http://chigasaki.spending.jp/ で稼働しているサイトのソースコードです。
+http://fujisawa.spending.jp/ で稼働しているサイトのソースコードです。
 これからもデータの更新や改善を続けていこうと思いますので、ご意見、ご要望、ご指摘をお願いします。
 
-Team for 茅ヶ崎
+Team for 藤沢
 七島　偉之（Hideyuki Nanashima）, @jollyjoester
+久保田　裕(Yutaka Kubota), @kubothink
+川戸　裕佑(Yusuke Kawato) @ykawato
 
 
 ###以下、fork元の横浜バージョンに関する記載になります。
