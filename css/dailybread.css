@@ -31,7 +31,7 @@
 }
 
 #db-header h1 {
-  color: #138EC0;
+  color: #009EAA;
   font-size: 2.5em;
   text-transform: uppercase;
 }
@@ -61,7 +61,7 @@
 #db-topbar div p {
   margin: 0;
   padding: 0;
-  color: #138EC0;
+  color: #009EAA;
   font-size: 1.5em;
   font-weight: bold;
 }
@@ -88,7 +88,7 @@
 
 .wdmmg-slider.ui-widget-content {
   background: none;
-  background-color: #138EC0;
+  background-color: #009EAA;
   height: 6px;
 }
 
@@ -136,7 +136,7 @@
 }
 
 .db-area-col.active {
-  color: #138EC0;
+  color: #009EAA;
   font-weight: bold;
 }
 
@@ -164,7 +164,7 @@
 }
 
 .db-area-col.active .db-area-icon path {
-  fill: #138EC0;
+  fill: #009EAA;
   stroke: none;
 }
 
@@ -183,7 +183,7 @@
 }
 
 #select-dependents-type > div.active {
-  color: #138EC0;
+  color: #009EAA;
   font-weight: bold;
 }
 
@@ -203,7 +203,7 @@
 }
 
 #select-dependents-type > div.active path {
-  fill: #138EC0;
+  fill: #009EAA;
   stroke: none;
 }
 
