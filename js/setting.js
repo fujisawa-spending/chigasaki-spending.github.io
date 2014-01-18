@@ -25,7 +25,7 @@ OpenSpending.Styles.Cofog = {
   '2-1': { icon: 'icons/publicaffairs.svg', color: '#009EAA', bcolor: '#0AB971' }, //総務管理費
   '2-2': { icon: 'icons/japanese-moneyublicaffairs.svg', color: '#009EAA', bcolor: '#0AB971' }, //徴税費
   '2-3': { icon: 'icons/payroll.svg', color: '#009EAA', bcolor: '#0AB971' },//戸籍住民基本台帳費
-  '2-4': { icon: 'icons/vote.svg', color: '#009EAA', bcolor: '#0AB971' },/ 選挙費
+  '2-4': { icon: 'icons/vote.svg', color: '#009EAA', bcolor: '#0AB971' },// 選挙費
   '2-5': { icon: 'icons/ekonomija.svg', color: '#009EAA', bcolor: '#0AB971' }, // 統計調査費
   '2-6': { icon: 'icons/financial-admin.svg', color: '#009EAA', bcolor: '#0AB971' },// 監査委員費
   '2-7': { icon: 'icons/c_syoubou_bousai.svg', color: '#009EAA', bcolor: '#0AB971' }, // 防災費
@@ -71,3 +71,6 @@ OpenSpending.Styles.Cofog = {
   '13-1': { icon: 'icons/social-systems.svg', color: '#009EAA', bcolor: '#790586' }
   
 };
+
+
+
