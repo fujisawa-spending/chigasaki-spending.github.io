@@ -18,7 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* fujisawa config */
-  '1': { icon: 'icons/civilian-action.svg', color: '#009EAA, bcolor: '#935B3B' },//議会費
+  '1': { icon: 'icons/civilian-action.svg', color: '#009EAA', bcolor: '#935B3B' },//議会費
   '1-1': { icon: 'icons/civilian-action.svg', color: '#009EAA', bcolor: '#935B3B' },
   '2': { icon: 'icons/publicaffairs.svg', color: '#009EAA', bcolor: '#0AB971' },//総務費
   '2-1': { icon: 'icons/publicaffairs.svg', color: '#009EAA', bcolor: '#0AB971' },
